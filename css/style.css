@@ -1,0 +1,42 @@
+body{
+	overflow: hidden;
+}
+
+.activePage{
+	color: #333;
+	font-size: 18px;
+}
+
+.activePage2{
+	color: #ccc;
+	font-size: 18px;
+}
+
+.well a{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.recover{
+	padding-top: 50px;
+}
+
+/*.checkbox{
+	padding-left: 220px;
+}
+
+.center{
+	margin-left: 225px;
+	padding: 10px 25px 10px 25px;
+}*/
+/*.container{
+	padding-top: 50px;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.danger{
+	margin-left: -115px;
+}*/
